@@ -1,1 +1,1 @@
-Now I can use Git
+Now I can use Git!
